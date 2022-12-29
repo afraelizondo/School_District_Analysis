@@ -20,6 +20,6 @@ These insights are gonna be used to inform discussions and strategic decisions a
 
 - Comparison between the asigned budget for each school and score results.
 
--Comparison between number of students in public vs. charter schools.
+- Comparison between number of students in public vs. charter schools.
 
--Best students of each grade of the schools.
+- Best students of each grade of the schools.
